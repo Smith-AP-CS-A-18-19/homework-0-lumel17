@@ -1,5 +1,5 @@
 /*
- * First and Last Names
+ * Melinda Lu
  */
 
 public class Homework0 {
